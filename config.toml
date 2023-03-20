@@ -1,0 +1,4 @@
+baseURL = 'https://allenchen1113official.github.io/'
+languageCode = 'zh-tw'
+title = 'AllenChen Blog'
+theme = 'hugo-coder'
