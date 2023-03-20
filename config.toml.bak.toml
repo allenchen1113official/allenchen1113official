@@ -1,0 +1,75 @@
+# baseURL = 'https://allenchen1113official.github.io/'
+# languageCode = 'zh-tw'
+# title = 'AllenChen Blog'
+# theme = 'hugo-coder'
+# [module]
+# [module.hugoVersion]
+# min = "0.77.0"
+
+baseurl = "https://allenchen1113official.github.io/"
+title = "AllenChen Blog"
+theme = "hugo-coder"
+languagecode = "zh-tw"
+defaultcontentlanguage = "zh-tw"
+
+paginate = 20
+
+disqusShortname = "allenchen"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Allen Chen"
+  info = "Full Stack DevOps and Magician"
+  description = "Allen Chen's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "allenchen1113.official@gmail.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+  dateFormat = "March 20, 2023"
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/allenchen1113official/"
+[[params.social]]
+  name = "Instgram"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://www.instagram.com/allenchen1113.official/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/allenchen1113official/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
