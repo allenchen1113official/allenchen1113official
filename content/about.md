@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About Allen"
 description = "This is Allen Chen Speaking"
 date = "2023-03-20"
 aliases = ["about-me", "about-allen", "contact"]
