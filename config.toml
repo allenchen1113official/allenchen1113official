@@ -134,13 +134,13 @@ url = "https://www.instagram.com/allenchen1113.official/"
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/allenchen1113.official/"
+url = "https://twitter.com/official84156/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/allenchen1113.official/"
+url = "https://www.linkedin.com/in/allen-chen-682233270/"
 
 [[params.social]]
 name = "Medium"
