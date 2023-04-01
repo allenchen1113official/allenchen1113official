@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 # Enable Disqus comments
-# disqusShortname = "AllenChen"
+disqusShortname = "AllenChen"
 
 [markup.highlight]
 style = "github-dark"
@@ -19,7 +19,7 @@ keywords = "blog,developer,personal"
 info = ["Project Manager", "Saxphone Player"]
 avatarURL = "images/allenchen_avatar.jpg"
 #gravatar = "allenchen1113.official@gmail.com"
-dateFormat = "March 20, 2023"
+dateFormat = "March 19, 2023"
 since = 2023
 # Git Commit in Footer, uncomment the line below to enable it
 # commit = "https://github.com/luizdepra/hugo-coder/tree/"
