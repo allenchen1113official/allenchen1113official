@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 # Enable Disqus comments
-disqusShortname = "AllenChen"
+disqusShortname = "allenchen1113official"
 
 [markup.highlight]
 style = "github-dark"
