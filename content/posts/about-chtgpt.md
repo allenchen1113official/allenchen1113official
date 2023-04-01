@@ -1,9 +1,15 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
----
-
++++ 
+draft = false
+date = 2023-04-01T21:41:35+08:00
+title = ""
+description = "This is About ChatGPT"
+slug = ""
+authors = [AllenChen]
+tags = [chatgpt]
+categories = [chatgpt]
+externalLink = ""
+series = []
++++
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
@@ -29,4 +35,3 @@ draft: true
 }
 </style>
 {{< /css.inline >}}
-
