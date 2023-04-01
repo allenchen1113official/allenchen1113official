@@ -4,9 +4,9 @@ date = 2023-04-01T21:41:35+08:00
 title = ""
 description = "This is About ChatGPT"
 slug = ""
-authors = [AllenChen]
-tags = [chatgpt]
-categories = [chatgpt]
+authors = "AllenChen"
+tags = ["chatgpt"]
+categories = ["chatgpt"]
 externalLink = ""
 series = []
 +++
