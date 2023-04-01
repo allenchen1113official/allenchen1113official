@@ -11,6 +11,9 @@ externalLink = ""
 series = []
 +++
 
+CHATGPT是一個對話式人工智慧模型，基於Transformer架構，使用GitHub資料和中文維基百科進行訓練，提供更好的回答來回應使用者的問題，提供高效、智慧和人性化的對話體驗。
+
+
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
 
