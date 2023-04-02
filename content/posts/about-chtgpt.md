@@ -3,7 +3,7 @@ draft = false
 date = 2023-04-01T21:41:35+08:00
 title = "About ChatGPT"
 description = "This is About ChatGPT"
-slug = ""
+slug = "about-chtgpt"
 authors = "AllenChen"
 tags = ["chatgpt"]
 categories = ["chatgpt"]
@@ -37,14 +37,6 @@ CHATGPT是一個對話式人工智慧模型，基於Transformer架構，使用Gi
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
-
-
-{{< highlight html >}}
-.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
-{{< /highlight >}}
-
 
 {{< css.inline >}}
 <style>
