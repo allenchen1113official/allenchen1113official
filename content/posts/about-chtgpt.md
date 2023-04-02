@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2023-04-01T21:41:35+08:00
-title = "About ChatGPT"
+title = "2個月用戶達1億ChatGPT狂潮之10個小秘技"
 description = "This is About ChatGPT"
 slug = "about-chtgpt"
 authors = "AllenChen"
