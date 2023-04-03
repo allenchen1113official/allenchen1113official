@@ -77,7 +77,7 @@ customRemoteJS = []
 
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
 # [params.googleTagManager]
-# id = "gid"
+# id = "G-L9RMZD8VTZ"
 
 # If you want to use Yandex Metrika(https://metrika.yandex.ru) for analytics, add this section
 # [params.yandexMetrika]
@@ -130,7 +130,7 @@ url = "https://github.com/allenchen1113official/"
 
 [[params.social]]
 name = "Instgram"
-icon = "fa fa-2x fa-instgram"
+image = "/images/social/instgram.svg"
 weight = 2
 url = "https://www.instagram.com/allenchen1113.official/"
 
