@@ -14,6 +14,7 @@ series = []
 Twitter Recommendation Algorithm 於2023/3/31開源 [@GitHub](https://github.com/twitter/the-algorithm)
 
 三個秘密：
+
 1.使用程式語言排行：第1名 Scala 53.8% ，第2名 Java 29.7% 第3名 Starlark
 6.3%。
 ![image](/images/post/twitter_algo_lang.png)
