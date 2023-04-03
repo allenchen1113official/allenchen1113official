@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-04-02T23:33:52+08:00
-title = "每天5億則推文之twitter-推薦演算法3個秘密"
-description = "這是twitter-推薦演算法3個秘密"
+title = "每天5億則推文twitter之推薦演算法3個秘密"
+description = "這是twitter之推薦演算法3個秘密"
 slug = "twitter-reco-algo"
 authors = "AllenChen"
 tags = ["twitter","Recommendation Algorithm"]
