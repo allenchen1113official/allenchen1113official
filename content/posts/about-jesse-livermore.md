@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2023-04-03T12:57:03+08:00
 title = "4起4落農家子弟亂世梟雄傑西李佛摩之投資金律"
 description = "This is about Jesse Lauriston Livermore"
