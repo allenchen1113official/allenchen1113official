@@ -44,7 +44,7 @@ series = []
 
 # 複利效應
 每天進步0.01，一年以後會變成現在的37倍強大；每天退步0.01，一年之後，會成為目前的0.03。
-![image](https://github.com/images/post/compound_interest.png )
+![image](https://allenchen1113official.github.io/images/post/compound_interest.png )
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
