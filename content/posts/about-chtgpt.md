@@ -6,7 +6,7 @@ description = "This is About ChatGPT"
 slug = "about-chtgpt"
 authors = "AllenChen"
 tags = ["chatgpt"]
-categories = ["chatgpt"]
+categories = ["chatgpt","科技"]
 externalLink = ""
 series = []
 +++

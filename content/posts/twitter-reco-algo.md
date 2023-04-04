@@ -6,7 +6,7 @@ description = "這是twitter之推薦演算法3個秘密"
 slug = "twitter-reco-algo"
 authors = "AllenChen"
 tags = ["twitter","Recommendation Algorithm"]
-categories = []
+categories = ["twitter","科技"]
 externalLink = ""
 series = []
 +++
