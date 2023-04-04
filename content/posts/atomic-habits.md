@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2023-04-04T09:07:59+08:00
-title = "每天進步1%複利一年成37倍之原子習慣"
+title = "每天進步1%複利一年成長37倍之原子習慣"
 description = "這是原子習慣閱讀摘要"
 slug = "atomic-habits"
 authors = "AllenChen"
