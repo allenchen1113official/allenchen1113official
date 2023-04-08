@@ -1,28 +1,21 @@
 +++ 
 draft = false
-date = 2023-04-07T19:59:22+08:00
-title = "6個小密訣邁向成功"
-description = "6個小密訣邁向成功"
-slug = "6tips-to-success"
+date = 2023-04-08T21:19:25+08:00
+title = "優秀提案五部曲"
+description = "優秀提案五部曲"
+slug = "6tips-for-good-proposal"
 authors = "AllenChen"
-tags = []
-categories = []
+tags = ["管理"]
+categories = ["管理"]
 externalLink = ""
 series = []
 +++
-
-# 立即行動
-別讓恐懼限制開始行動。
-# 持續練習
-沒經歷過一萬小時的練習談不上失敗。
-# 專注
-專注想做的事。
-# 把握當下
-不要浪費時間在後悔過去。
-# 不怕失敗
-Dyson創辦人James Dyson：在成功研發Dyson吸塵器前，做過5,127個吸塵器原型，那代表我失敗5,126次，我從不害怕失敗，因為每次失敗都是學習。
-# 追求完美
-產出最簡可行產品 (Minimum viable product)，持續修正追求完美。
+1. 一言以蔽之(1 Message)：一個重點
+2. 一行動建議(1 Action)：明確指出第一步要做的事。
+3. 三點說明提案內容（3 What?)
+4. 三點說明提案理由（3 Why?)
+5. 三點說明執行方式（3 How?)
+6. 一個監控執行方式(1 Monitor)
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
