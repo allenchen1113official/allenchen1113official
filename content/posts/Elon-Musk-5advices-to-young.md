@@ -10,6 +10,7 @@ categories = ["管理"]
 externalLink = ""
 series = []
 +++
+
 1. 超級努力工作(Work super hard)
 2. 和厲害的人一起(attract great people)
 3. 專注重點，遠離噪音(Focus on signal over noise)
