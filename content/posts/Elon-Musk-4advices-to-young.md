@@ -1,21 +1,21 @@
 +++ 
 draft = false
-date = 2023-04-10T21:58:02+08:00
-title = "三句名言關於攝影"
-description = "三句名言關於攝影"
-slug = "3famous-saying-about-photo"
+date = 2023-04-12T23:29:59+08:00
+title = "伊隆·馬斯克給年輕人的4個人生建議"
+description = "伊隆·馬斯克給年輕人的4個人生建議"
+slug = ""
 authors = "AllenChen"
-tags = ["攝影"]
-categories = ["攝影"]
+tags = ["管理","Elon Musk","伊隆·馬斯克"]
+categories = ["管理"]
 externalLink = ""
 series = []
 +++
+1. 超級努力工作(Work super hard)
+2. 和厲害的人一起(attract great people)
+3. 專注重點，遠離噪音(Focus on signal over noise)
+4. 不要人云亦云(Don't follow the trend)
+5. 勇敢去冒險(It's time to take risk)
 
-## Ansel Adams:當你拍照的時候，重要的不是相機，而是站在相機後面的那個你，以及你的思考方式。
-
-## Martin Parr：如果你在外面很久，你就會有幸看到一些事情；走出去 ，拍攝你自己喜歡的東西。
-
-## Peter Adams：偉大的攝影作品重要的是情深，而不是景深。
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
