@@ -1,9 +1,9 @@
 +++ 
 draft = false
 date = 2023-04-12T23:29:59+08:00
-title = "伊隆·馬斯克給年輕人的4個人生建議"
-description = "伊隆·馬斯克給年輕人的4個人生建議"
-slug = ""
+title = "伊隆·馬斯克給年輕人的5個人生建議"
+description = "伊隆·馬斯克給年輕人的5個人生建議"
+slug = "Elon-Musk-5advices-to-young"
 authors = "AllenChen"
 tags = ["管理","Elon Musk","伊隆·馬斯克"]
 categories = ["管理"]
