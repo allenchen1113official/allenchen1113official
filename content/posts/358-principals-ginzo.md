@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-04-09T21:24:45+08:00
-title = "三五八原則股市之神是川銀藏(Ginzo)"
-description = "三五八原則股市之神是川銀藏(Ginzo)"
+title = "358原則股市之神是川銀藏(Ginzo)"
+description = "358原則股市之神是川銀藏(Ginzo)"
 slug = "358-principals-ginzo"
 authors = "AllenChen"
 tags = ["是川銀藏","理財"]

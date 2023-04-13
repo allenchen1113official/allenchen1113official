@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-04-10T21:58:02+08:00
-title = "三句名言關於攝影"
-description = "三句名言關於攝影"
+title = "3句名言關於攝影"
+description = "3句名言關於攝影"
 slug = "3famous-saying-about-photo"
 authors = "AllenChen"
 tags = ["攝影"]
