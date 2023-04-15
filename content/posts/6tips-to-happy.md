@@ -11,6 +11,8 @@ externalLink = ""
 series = []
 +++
 
+![image](/images/post/AA-happy-rabbit-with-big-blue-eyes-and-a-hat-runs-in-the-watery-forest-impressionistic.jpeg)
+
 1. 過日子，不要追求完美。
 2. 擁有什麼，就珍惜什麼。
 3. 失去什麼，就接受什麼。
