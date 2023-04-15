@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-with-big blue-eyes-and-a-hat-runs-in-the-watery-forest-impressionistic-style.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-and-a-hat-runs-in-the-watery-forest-impressionistic-style.jpeg)
 
 1. 自律：設下陷阱，讓自己上癮。
 2. 努力：努力來讓自己變更好，嘗試讓目標實現。
