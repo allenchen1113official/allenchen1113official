@@ -11,6 +11,8 @@ externalLink = ""
 series = []
 +++
 
+![image](/images/post/A-rabbit-climbing-a-mountain-with-big-blue-eyes-and-a-hat-with-comics-style.jpeg)
+
 1. 越來越自律：告別無效社交。
 2. 喜歡獨處：養成獨立性格。
 3. 做自己喜歡的事：不在乎別人的眼光。
