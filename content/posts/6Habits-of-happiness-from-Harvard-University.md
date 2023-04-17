@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/6Habits-of-happiness-from-Harvard-University.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-with-smile-in-the-sea-with-comic-style.jpeg)
 
 1. 做熱愛的事。
 2. 活在當下。
