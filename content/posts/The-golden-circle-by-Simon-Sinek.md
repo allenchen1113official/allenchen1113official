@@ -7,7 +7,7 @@ slug = "The-golden-circle-by-Simon-Sinek"
 authors = "AllenChen"
 tags = ["賽門．西尼克","黃金圈法則"]
 categories = ["管理","領導"]
-externalLink = "The-golden-circle-by-Simon-Sinek"
+externalLink = ""
 series = []
 +++
 
