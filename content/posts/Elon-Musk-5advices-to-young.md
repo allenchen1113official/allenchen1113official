@@ -11,6 +11,8 @@ externalLink = ""
 series = []
 +++
 
+![image](/images/post/A-rabbit-talking-with-wise-man-with-big-blue-eyes-and-a-hat-at-Harvard-University-with-impressionism-style.jpeg)
+
 1. 超級努力工作(Work super hard)
 2. 和厲害的人一起(attract great people)
 3. 專注重點，遠離噪音(Focus on signal over noise)
