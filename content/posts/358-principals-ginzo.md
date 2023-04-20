@@ -3,13 +3,15 @@ draft = false
 date = 2023-04-09T21:24:45+08:00
 title = "358原則股市之神是川銀藏(Ginzo)"
 description = "358原則股市之神是川銀藏(Ginzo)"
-slug = "358-principals-ginzo"
+slug = "358-Principals-ginzo"
 authors = "AllenChen"
 tags = ["是川銀藏","理財"]
 categories = ["理財"]
 externalLink = ""
 series = []
 +++
+![image](/images/post/A-rabbit-having-much-money-with-big-blue-eyes-and-a-big-ear-at-War-with-impressionism-style.jpeg)
+
 # 烏龜3原則
 1. 長期持有標的：找尋獲利潛力且值得長期投資的標的
 2. 自己花時間研究：留意經濟與股市行情的變動，下功夫研究。
