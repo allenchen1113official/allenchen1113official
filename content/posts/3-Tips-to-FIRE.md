@@ -11,18 +11,17 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-having-much-money-and-lying-on-the-beach-with-big-blue-eyes-with-comic-style
-.jpeg)
+![image](/images/post/A-rabbit-having-much-money-and-lying-on-the-beach-with-big-blue-eyes-with-comic-style.jpeg)
 
 # 4%法則
-## 1994年美國財務顧問威廉‧ 班根（William P. Bengen）研究，在股債配置各50%，通膨約3%前提假設。
-## 每年從退休帳戶的投資組合中領出4%作為日常生活費資金可持續領30年以上。
-## 退休金＝預計每年生活費÷4％。
+### 1994年美國財務顧問威廉‧ 班根（William P. Bengen）研究，在股債配置各50%，通膨約3%前提假設。
+### 每年從退休帳戶的投資組合中領出4%作為日常生活費資金可持續領30年以上。
+### 退休金＝預計每年生活費÷4％。
 # 50/30/20預算法則
-## 每個月50%用在必要日常花費，30%用在想提升生活品質花費，20%儲蓄理財。
+### 每個月50%用在必要日常花費，30%用在想提升生活品質花費，20%儲蓄理財。
 # 增加被動收入
-## 非工資收入，在睡覺時也能賺錢。
-## 被動收入7種方式
+### 非工資收入，在睡覺時也能賺錢。
+### 被動收入7種方式
 1. 當賺錢公司的股東。
 2. 取得房地產當房東收租。
 3. 經營一個高流量數位媒體(Youtobe流量收入、Podcast)。
