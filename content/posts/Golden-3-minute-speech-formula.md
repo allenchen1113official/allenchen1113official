@@ -11,8 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-holding-a-microphone-with-big-blue-eyes-at-a-wedding-banquet-with-Van-Gogh-style
-.jpeg)
+![image](/images/post/A-rabbit-holding-a-microphone-with-big-blue-eyes-at-a-wedding-banquet-with-Van-Gogh-style.jpeg)
 
 1. 自己：說明自己和主角的關係，扮演恰如其分的「配角」。
 2. 故事：說說關於主角的故事，可能是雙方互動的點滴，糗事，往事；可能是你對對方的觀察，或對方不為人知的好人好事。
