@@ -11,6 +11,9 @@ externalLink = ""
 series = []
 +++
 
+![image](/images/post/A-rabbit-looking-iPhone-and-open-twitter-App-with-big-blue-eyes-with-Van-Gogh-style.jpeg)
+
+
 Twitter Recommendation Algorithm 於2023/3/31開源 [@GitHub](https://github.com/twitter/the-algorithm)
 
 三個秘密：

@@ -3,13 +3,15 @@ draft = false
 date = 2023-04-07T19:59:22+08:00
 title = "6個小密訣邁向成功"
 description = "6個小密訣邁向成功"
-slug = "6tips-to-success"
+slug = "6-Tips-to-success"
 authors = "AllenChen"
 tags = []
 categories = []
 externalLink = ""
 series = []
 +++
+
+![image](/images/post/A-rabbit-on-a-mazda-car-with-big-blue-eyes-flying-over-the-rainbow-with-Van-Gogh-style.jpeg)
 
 # 立即行動
 別讓恐懼限制開始行動。

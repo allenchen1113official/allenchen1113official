@@ -10,6 +10,8 @@ categories = ["chatgpt","科技"]
 externalLink = ""
 series = []
 +++
+![image](/images/post/A-rabbit-using-AI-and-talking-a-robot-with-big-blue-eyes-with-Van-Gogh-style.jpeg)
+
 
 CHATGPT是一個對話式人工智慧模型，基於Transformer架構，使用GitHub資料和中文維基百科進行訓練，提供更好的回答來回應使用者的問題，提供高效、智慧和人性化的對話體驗。
 

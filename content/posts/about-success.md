@@ -10,6 +10,7 @@ categories = ["閱讀"]
 externalLink = ""
 series = []
 +++
+![image](/images/post/A-rabbit-playing-tennis-with-big-blue-eyes-with-Van-Gogh-style.jpeg)
 
 # 喬許．考夫曼(Josh Kaufman)20小時原則去啟動一項學習。
 ### 喬許．考夫曼(Josh Kaufman)：20小時原則

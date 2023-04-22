@@ -3,13 +3,15 @@ draft = false
 date = 2023-04-06T19:42:56+08:00
 title = "7個管理決策小秘訣"
 description = "7個管理決策小秘訣"
-slug = "mgmt-decision-tips"
+slug = "7-Mgmt-decision-tips"
 authors = "AllenChen"
 tags = ["管理"]
 categories = ["管理"]
 externalLink = ""
 series = []
 +++
+![image](/images/post/A-rabbit-talking-with-a-big-rabbit-on-a-office-with-big-blue-eyes-with-Van-Gogh-style.jpeg)
+
 # 7個管理決策小秘訣
 1. 寫下這個決定將會影響到組識那五大目標：強化動機。
 2. 寫下至少三種務實的變通方案：替代方案。

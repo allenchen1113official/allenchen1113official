@@ -11,6 +11,9 @@ externalLink = ""
 series = []
 +++
 
+![image](/images/post/A-rabbit-reading-the-book-atomic-habbits-with-big-blue-eyes-in-the-library-with-Van-Gogh-style.jpeg)
+
+
 # 身分認同
 
 ## 新的身分認同需要新的證據，過程只有簡單的兩步驟

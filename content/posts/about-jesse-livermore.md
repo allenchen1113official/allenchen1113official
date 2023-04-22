@@ -10,6 +10,7 @@ categories = ["理財"]
 externalLink = ""
 series = []
 +++
+![image](/images/post/A-rich-rabbit-having-much-money-on-wall-street-with-big-blue-eyes-with-Van-Gogh-style.jpeg)
 
 # 操盤觀念：
 

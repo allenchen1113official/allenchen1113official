@@ -1,25 +1,25 @@
 +++ 
 draft = false
-date = 2023-04-14T21:25:34+08:00
-title = "6個快樂秘訣"
-description = "6個快樂秘訣"
-slug = "6tips-to-happy"
+date = 2023-04-16T22:33:46+08:00
+title = "比爾蓋茲分享成功的7大祕訣"
+description = "比爾蓋茲分享成功的7大祕訣"
+slug ="7-Secrets-to-success-by-Bill-Gates"
 authors = "AllenChen"
-tags = ["快樂"]
+tags = ["比爾蓋茲","成功"]
 categories = ["人生"]
 externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-happy-rabbit-with-big-blue-eyes-and-a-hat-runs-in-the-watery-forest-impressionistic.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-and-a-hat-listening-a-lecture-at-school-with-impressionistic-style.jpeg)
 
-1. 過日子，不要追求完美。
-2. 擁有什麼，就珍惜什麼。
-3. 失去什麼，就接受什麼。
-4. 去戀愛，保留彼此空間，找到自我，擁有安全感。
-5. 交朋友，志同道和，互利共好。
-6. 做事業，找尋意義感、成長感、成就感與歸屬感。
-
+1. 早一點開始學習。
+2. 大膽冒險。
+3. 重視自己的工作。
+4. 學習比學校更重要。
+5. 該負責時就要負責。
+6. 做個預測未來的人。
+7. 承擔更大的責任。
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
