@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-on-a-bike-with-big-blue-eyes-flying-over-the-mountains-with-Van-Gogh-style.jpeg)
+![image](/images/post/A-rabbit-on-a-bike-with-big-blue-eyes-flying-over-the-mountains-with-Van-Gogh-style.jpeg)
 
 1. 果斷降低難度：適當難度的目標。
 2. 堅持不痛苦的努力，能令人感動快樂的努力：2分鐘原則完成，強化持續性。
