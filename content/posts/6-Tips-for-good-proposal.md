@@ -1,24 +1,25 @@
 +++ 
 draft = false
-date = 2023-04-13T19:51:19+08:00
-title = "走上坡的6個徵兆"
-description = "走上坡的6個徵兆"
-slug = "6signs-you-are-going-uphill"
+date = 2023-04-08T21:19:25+08:00
+title = "優秀提案6部曲"
+description = "優秀提案6部曲"
+slug = "6-Tips-for-good-proposal"
 authors = "AllenChen"
-tags = ["自律","正能量","成功"]
+tags = ["管理"]
 categories = ["管理"]
 externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-climbing-a-mountain-with-big-blue-eyes-and-a-hat-with-comics-style.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-and-a-hat-runs-in-the-watery-forest-impressionistic-style.jpeg)
 
-1. 越來越自律：告別無效社交。
-2. 喜歡獨處：養成獨立性格。
-3. 做自己喜歡的事：不在乎別人的眼光。
-4. 冷靜思考：不衝動，收斂脾氣。
-5. 明確的目標和計畫：認真思考規劃。
-6. 專注自己：不要把希望寄託他人。
+
+1. 一言以蔽之(1 Message)：一個重點
+2. 一行動建議(1 Action)：明確指出第一步要做的事。
+3. 三點說明提案內容（3 What?)
+4. 三點說明提案理由（3 Why?)
+5. 三點說明執行方式（3 How?)
+6. 一個監控執行方式(1 Monitor)
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>

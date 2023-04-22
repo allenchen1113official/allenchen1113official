@@ -1,21 +1,26 @@
 +++ 
 draft = false
-date = 2023-04-08T21:19:25+08:00
-title = "優秀提案6部曲"
-description = "優秀提案6部曲"
-slug = "6tips-for-good-proposal"
+date = 2023-04-15T21:08:57+08:00
+title = "5個方法變優秀"
+description = "5個方法變優秀"
+slug = "5-Ways-to-be-great"
 authors = "AllenChen"
-tags = ["管理"]
-categories = ["管理"]
+tags = ["優秀","人生"]
+categories = ["人生"]
 externalLink = ""
 series = []
 +++
-1. 一言以蔽之(1 Message)：一個重點
-2. 一行動建議(1 Action)：明確指出第一步要做的事。
-3. 三點說明提案內容（3 What?)
-4. 三點說明提案理由（3 Why?)
-5. 三點說明執行方式（3 How?)
-6. 一個監控執行方式(1 Monitor)
+
+![image](/images/post/A-rabbit-with-big-blue-eyes-and-a-hat-runs-in-the-watery-forest-impressionistic-style.jpeg)
+
+1. 自律：設下陷阱，讓自己上癮。
+2. 努力：努力來讓自己變更好，嘗試讓目標實現。
+3. 對的方法：選擇對的方法。
+4. 堅持：所有偉大的事，都是因為堅持才得以實現的。
+5. 時間累積：每天離優秀更近一點。
+
+# 持續努力，再大方擁有。
+
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
