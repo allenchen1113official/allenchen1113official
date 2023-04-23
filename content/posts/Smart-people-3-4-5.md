@@ -1,12 +1,12 @@
 +++ 
 draft = false
 date = 2023-04-23T15:15:04+08:00
-title = ""
-description = ""
-slug = ""
+title = "聰明人3不管，4不說，5不幫"
+description = "聰明人3不管，4不說，5不幫"
+slug = "Smart-people-3-4-5"
 authors = "AllenChen"
-tags = []
-categories = []
+tags = ["人生"]
+categories = ["人生"]
 externalLink = ""
 series = []
 +++
