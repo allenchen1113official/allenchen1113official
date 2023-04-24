@@ -11,8 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-male-rabbit-that-attract-2-female-rabbits-with-big-blue-eyes-with-Van-Gogh-style
-.jpeg)
+![image](/images/post/A-male-rabbit-that-attract-2-female-rabbits-with-big-blue-eyes-with-Van-Gogh-style.jpeg)
 
 1. 充實生活。
 2. 打理好外在。
