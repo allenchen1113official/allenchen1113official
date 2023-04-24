@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-reading-the-book-atomic-habbits-with-big-blue-eyes-in-the-library-with-Van-Gogh-style.jpeg)
+![image](/images/post/A-rabbit-reading-the-book-atomic-habits-with-big-blue-eyes-in-the-library-with-Van-Gogh-style.jpeg)
 
 
 # 身分認同

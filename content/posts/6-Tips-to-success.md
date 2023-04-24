@@ -1,12 +1,12 @@
 +++ 
 draft = false
 date = 2023-04-07T19:59:22+08:00
-title = "6個小密訣邁向成功"
-description = "6個小密訣邁向成功"
+title = "6個小秘訣邁向成功"
+description = "6個小秘訣邁向成功"
 slug = "6-Tips-to-success"
 authors = "AllenChen"
-tags = []
-categories = []
+tags = ["成功"]
+categories = ["成功"]
 externalLink = ""
 series = []
 +++
