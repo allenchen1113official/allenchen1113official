@@ -1,24 +1,23 @@
 +++ 
 draft = false
-date = 2023-04-24T21:49:45+08:00
-title = "提升魅力6種方法"
-description = "提升魅力6種方法"
-slug = "6-Ways-to-boost-your-charisma"
+date = 2023-04-25T21:38:57+08:00
+title = "口才溝通6能力"
+description = "口才溝通6能力"
+slug = "6-Abilities-for-eloquent-communication"
 authors = "AllenChen"
-tags = ["人生","吸引力法則"]
-categories = ["人生"]
+tags = ["口才溝通"]
+categories = ["口才溝通"]
 externalLink = ""
 series = []
 +++
+![image](/images/post/A-rabbit-presenting-to-many-rabbits-with-big-blue-eyes-in-the-classroom-with-Van-Gogh-style.jpeg)
 
-![image](/images/post/A-male-rabbit-that-attract-2-female-rabbits-with-big-blue-eyes-with-Van-Gogh-style.jpeg)
-
-1. 充實生活。
-2. 打理好外在。
-3. 散發正能量。
-4. 勇敢追求想望。 
-5. 掌握自己情緒。
-6. 戒掉壞習慣。
+1. 記憶力（閱讀）
+2. 思考力（觀察）
+3. 表達力（邏輯）
+4. 溝通力（識人）
+5. 故事力（聯想）
+6. 能量（態度）
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
