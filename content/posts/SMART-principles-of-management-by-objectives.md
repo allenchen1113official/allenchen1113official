@@ -20,7 +20,7 @@ series = []
 4. Relevant：相關的。
 5. Time-based：有時限的。
 
-#SMART 原則是一個目標設定框架，能幫助團隊達成目標、提高工作效率，也有助於設定個人成長的目標。
+# SMART 原則是一個目標設定框架，能幫助團隊達成目標、提高工作效率，也有助於設定個人成長的目標。
 
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
