@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-talking-with-a wiseman-with-big-blue-eyes-with-Van-Gogh-style.jpeg)
+![image](/images/post/A-rabbit-talking-with-a-wiseman-with-big-blue-eyes-with-Van-Gogh-style.jpeg)
 
 1. 物來順應：事情已發生，就去順應及面對。
 2. 未來不迎：不必為未來沒有發生的事焦慮。
