@@ -10,7 +10,6 @@ categories = ["人生"]
 externalLink = ""
 series = []
 +++
-
 ![image](/images/post/A-rabbit-talking-with-a-wiseman-with-big-blue-eyes-with-Van-Gogh-style.jpeg)
 
 1. 物來順應：事情已發生，就去順應及面對。
