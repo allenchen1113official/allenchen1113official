@@ -13,6 +13,8 @@ series = []
 
 ![image](/images/post/A-rabbit-with-big-blue-eyes-presenting-in-the-WhiteHouse-with-Van-Gogh-style.jpeg)
 
+# [改善公眾演講的4個技巧(4 Tips To IMPROVE Your Public Speaking)](https://www.youtube.com/watch?v=962eYqe--Yc)
+
 1. 給予(Giving)：表達給予(Show Up to Gived)、真實性參與(Authenticity Engages)
 2. 查覺(Awareness)：查覺感受觀眾(Awareness feel the audience)、 因地制宜(Rock with the Situation)。
 3. 大膽(Audacity)：大膽、熱情、全力講述你的故事。(Boldness Passionate, Full Power telling your Story)。
