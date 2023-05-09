@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/XXX.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-talking-to-another-female-rabbit-with-Van-Gogh-style.jpeg)
 
 1. 表達：想法/清楚。
 2. 溝通：個性/情緒。
