@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-05-17T01:24:48+08:00
-title = "五個學好英文的密訣"
-description = "五個學好英文的密訣"
+title = "5個學好英文的密訣"
+description = "5個學好英文的密訣"
 slug = "5-Tips-to-learn-english-well"
 authors = "AllenChen"
 tags = ["英文","學習"]

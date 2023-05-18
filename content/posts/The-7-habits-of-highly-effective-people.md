@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-04-29T20:02:10+08:00
-title = "高效能人士的七個習慣"
-description = "高效能人士的七個習慣"
+title = "高效能人士的7個習慣"
+description = "高效能人士的7個習慣"
 slug = "The-7-habits-of-highly-effective-people"
 authors = "AllenChen"
 tags = ["與成功有約","史蒂芬．柯維"]
