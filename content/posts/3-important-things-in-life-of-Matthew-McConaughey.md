@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-05-02T21:00:30+08:00
-title = "馬修麥康納（Matthew McConaughey）人生三個重要的東西"
-description = "馬修麥康納（Matthew McConaughey）人生三個重要的東西"
+title = "馬修麥康納（Matthew McConaughey）人生3個重要的東西"
+description = "馬修麥康納（Matthew McConaughey）人生3個重要的東西"
 slug = "3-important-things-in-life-of-Matthew-McConaughey"
 authors = "AllenChen"
 tags = ["馬修麥康納"]

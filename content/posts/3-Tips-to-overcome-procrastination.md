@@ -1,9 +1,9 @@
 +++ 
 draft = false
 date = 2023-05-15T23:24:04+08:00
-title = "三個克服拖延症的密訣"
-description = "三個克服拖延症的密訣"
-slug = "-Tips-to-overcome-procrastination"
+title = "3個克服拖延症的密訣"
+description = "3個克服拖延症的密訣"
+slug = "3-Tips-to-overcome-procrastination"
 authors = "AllenChen"
 tags = ["拖延症","人生","管理"]
 categories = ["拖延症","人生","管理"]
@@ -18,7 +18,7 @@ series = []
 2. 清單：寫下需要完成的任務清單，可以幫助我們體現出目標的重要性，同時也可以讓我們監控自己達成目標的進度。
 
 3. 行動：最重要的是開始行動。當我們有計劃、清單和時間段時，就可以開始進入工作狀態。不斷地勾選任務清單中的專案，慢慢地就能夠克服拖延症的問題，並且達到自己的目標。
-  \
+   
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>

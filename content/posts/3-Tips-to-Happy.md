@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-05-14T15:23:57+08:00
-title = "快樂三個密訣"
-description = "快樂三個密訣"
+title = "快樂3個密訣"
+description = "快樂3個密訣"
 slug = "3-Tips-to-Happy"
 authors = "AllenChen"
 tags = ["快樂","人生"]

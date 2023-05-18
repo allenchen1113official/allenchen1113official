@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-05-16T23:20:21+08:00
-title = "三個實現財富自由的密訣"
-description = "三個實現財富自由的密訣"
+title = "3個實現財富自由的密訣"
+description = "3個實現財富自由的密訣"
 slug = "3-Tips-to-show-me-the-money"
 authors = "AllenChen"
 tags = ["財富自由","理財"]
