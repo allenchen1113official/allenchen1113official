@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-05-07T22:29:55+08:00
-title = "一年的時間改變自己"
-description = "一年的時間改變自己"
+title = "1年的時間改變自己"
+description = "1年的時間改變自己"
 slug = "One-year-to-change-yourself"
 authors = "AllenChen"
 tags = ["人生","強者思維"]
