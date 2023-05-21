@@ -13,6 +13,9 @@ series = []
 
 ![image](/images/post/A-rabbit-with-big-blue-eyes-talking-with-rich-and-wise-people-with-Van-Gogh-style.jpeg)
 
+[Howard Marks-投資最重要的事](https://www.goodreads.com/es/book/show/34426674)
+
+
 1. 就在投資這件事情上，小心謹慎是非常重要的。成功的投資者需要保持意識，開始深思熟慮後再行動。
 
 2. 投資並不只是投機獲利，而是一個比較長期的過程，並且需要風險控制。對成本乃至利潤率都有深刻理解，才能預防損失並且盡可能地獲得回報。
