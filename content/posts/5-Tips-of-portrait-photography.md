@@ -6,7 +6,7 @@ description = "人像攝影的五個密訣"
 slug = ""
 authors = "AllenChen"
 tags = ["人像攝影"]
-categories = ["攝影]
+categories = ["攝影"]
 externalLink = ""
 series = []
 +++
