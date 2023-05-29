@@ -6,7 +6,7 @@ description = "建立智慧農業大資料平臺發展智慧農業的5種具體�
 slug = "5-Specific-actions-for-build-a-big-data-latform-to-develope-smart-agriculture"
 authors = "AllenChen"
 tags = ["智慧農業","大資料平臺"]
-categories = ["智慧農業]
+categories = ["智慧農業"]
 externalLink = ""
 series = []
 +++
