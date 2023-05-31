@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-with-big-blue-eyes-farming-rice-and-operating-agriculture-machone-with-Van-Gogh-style.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-farming-rice-and-operating-agriculture-machine-with-Van-Gogh-style.jpeg)
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
