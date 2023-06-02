@@ -13,6 +13,8 @@ series = []
 
 ![image](/images/post/A-rabbit-with-big-blue-eyes-participating-shareholders-meeting-with-Monet-style.jpeg)
 
+[Here's a full recap of everything Warren Buffett and Charlie Munger said at Berkshire’s annual meeting](https://cnb.cx/3ntvTWF)
+
 1. 你應該寫訃告，然後想辦法不辜負它(巴菲特)。
 2. 延遲滿足(查理蒙格)。
 3. 蘋果是一家好企業公司，iPhone是非凡的產品。
