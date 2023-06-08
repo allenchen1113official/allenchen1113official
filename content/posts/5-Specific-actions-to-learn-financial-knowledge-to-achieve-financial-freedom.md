@@ -6,7 +6,7 @@ description = "學習財務知識達到財富自由之5種具體作為"
 slug = "5-Specific-actions-to-learn-financial-knowledge-to-achieve-financial-freedom"
 authors = "AllenChen"
 tags = ["財富自由"]
-categories = ["財富自由]
+categories = ["財富自由"]
 externalLink = ""
 series = []
 +++
