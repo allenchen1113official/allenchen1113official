@@ -11,8 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-with-big-blue-eyes-asking-why-and-searching-the-solution-with-Van-Gogh-style
-.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-asking-why-and-searching-the-solution-with-Van-Gogh-style.jpeg)
 
 1. 定義問題
 2. 拆解問題
