@@ -6,7 +6,7 @@ description = "排定優先順序進行問題解決3個具體作為"
 slug = "3-Specific-actions-to-solve-the-problem-by-prioritizing"
 authors = "AllenChen"
 tags = ["問題解決","排序"]
-categories = ["問題解決","管理]
+categories = ["問題解決","管理"]
 externalLink = ""
 series = []
 +++
