@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-06-26T21:43:37+08:00
-title = "以結構評估企業經營績效之具體方法"
-description = "以結構評估企業經營績效之具體方法"
+title = "以結構評估企業經營績效之7個具體方法"
+description = "以結構評估企業經營績效之7個具體方法"
 slug = "7-Steps-to-structurally-evaluate-business-performance"
 authors = "AllenChen"
 tags = ["麥肯錫7S","評估企業","結構"]
