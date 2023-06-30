@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-06-29T20:00:49+08:00
-title = "以風格評估企業經營績效之6個具體方法"
-description = "以風格評估企業經營績效之6個具體方法"
+title = "以風格評估企業經營績效之5個具體方法"
+description = "以風格評估企業經營績效之5個具體方法"
 slug = "5-Methods-to-evaluate-business-performance-by-style"
 authors = "AllenChen"
 tags = ["麥肯錫7S","評估企業"]
