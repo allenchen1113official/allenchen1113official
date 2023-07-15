@@ -5,8 +5,8 @@ title = "輿情分析第1個具體步驟：資料收集"
 description = "輿情分析第1個具體步驟：資料收集"
 slug = "1st-step-for-public-opinion-analysis-data-collection"
 authors = "AllenChen"
-tags = ["輿情分析"]
-categories = ["輿情分析"]
+tags = ["輿情分析","資料收集"]
+categories = ["輿情分析","資料收集"]
 externalLink = ""
 series = []
 +++
