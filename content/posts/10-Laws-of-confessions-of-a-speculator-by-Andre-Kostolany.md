@@ -5,8 +5,8 @@ title = "一個投機者的告白-安德烈．科斯托蘭尼：十律"
 description = "一個投機者的告白-安德烈．科斯托蘭尼：十律"
 slug = "10-Laws-of-confessions-of-a-speculator-by-Andre-Kostolany"
 authors = "AllenChen"
-tags = ["理財","一個投機者的告白","德烈．科斯托蘭尼"]
-categories = ["理財","一個投機者的告白","德烈．科斯托蘭尼"]
+tags = ["理財","一個投機者的告白","安德烈．科斯托蘭尼"]
+categories = ["理財","一個投機者的告白","安德烈．科斯托蘭尼"]
 externalLink = ""
 series = []
 +++
