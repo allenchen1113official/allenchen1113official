@@ -11,10 +11,11 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/Kostolany-egg-theory.PNG)
+![image](/images/post/A-rabbit-with-big-blue-eyes-talking-a-old-man-that-holding-egg-in-hand-with-Van-Gogh-style.jpeg)
 
 [一個投機者的告白-安德烈．科斯托蘭尼](https://www.goodreads.com/book/show/36995162)書中提出的「雞蛋理論」是一種投資策略：底部買、頭部賣。科斯托蘭尼認為，每個多空都有週期性循環，像是一顆雞蛋，主要由3個階段組成：修正階段、調整階段和過熱階段，如下圖所示。
-![image](/images/post/A-rabbit-with-big-blue-eyes-talking-a-old-man-that-holding-egg-in-hand-with-Van-Gogh-style.jpeg)
+
+![image](/images/post/Kostolany-egg-theory.png)
 
 在空頭市場末期，行情跌到很低之後，慢慢地被拉到合理的水準，這就是修正階段，
 細部階段如下所述：
