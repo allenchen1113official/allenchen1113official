@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-with-big-blue-eyes-keeping-challenging-yourself-with-Van-Gogh-style.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-working-hard-and-sweating-with-Van-Gogh-style.jpeg)
 
 持續挑戰自己是一個非常重要的練習技巧。透過不斷的挑戰自己，你可以不斷地提升自己的能力和技術水平。這需要你勇於面對困難和挑戰，並且不怕失敗。以下是一些具體的建議，幫助你在持續挑戰中成長：
 
