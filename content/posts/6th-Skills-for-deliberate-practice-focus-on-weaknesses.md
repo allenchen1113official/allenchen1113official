@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2023-08-08T00:34:28+08:00
+date = 2023-08-07T00:34:28+08:00
 title = "刻意練習第6個技巧：專注於弱點"
 description = "刻意練習第6個技巧：專注於弱點"
 slug = "6th-Skills-for-deliberate-practice-focus-on-weaknesses"
