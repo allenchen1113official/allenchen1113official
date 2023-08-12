@@ -3,10 +3,10 @@ draft = false
 date = 2023-08-12T23:32:36+08:00
 title = "巴比倫理財聖經12項金律"
 description = "巴比倫理財聖經12項金律"
-slug = ""
+slug = "The-12-golden-rules-of-the-babylonian-financial-bible"
 authors = "AllenChen"
 tags = ["巴比倫","理財聖經","理財"]
-categories = [巴比倫","理財聖經","理財"]
+categories = ["巴比倫","理財聖經","理財"]
 externalLink = ""
 series = []
 +++
