@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2023-08-18T22:46:22+08:00
+date = 2023-08-17T22:46:22+08:00
 title = "巴比倫理財聖經第5條金律：投資尋找財富"
 description = "巴比倫理財聖經第5條金律：投資尋找財富"
 slug = "The-5th-golden-rules-of-the-babylonian-financial-bible-invest-to-find-wealth"
