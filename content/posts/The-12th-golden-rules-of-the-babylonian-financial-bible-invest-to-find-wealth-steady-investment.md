@@ -7,13 +7,11 @@ slug = "The-12th-golden-rules-of-the-babylonian-financial-bible-invest-to-find-w
 authors = "AllenChen"
 tags = ["巴比倫","理財聖經","理財","穩定投資"]
 categories = ["巴比倫","理財聖經","理財","穩定投資"]
-categories = []
 externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-with-big-blue-eyes-buying-stocks-to-make-much-money-with-Van-Gogh-style
-.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-buying-stocks-to-make-much-money-with-Van-Gogh-style.jpeg)
 
 巴比倫理財聖經是一本關於財務管理和投資的書籍，其中提到了許多關於金錢和財富的智慧原則。其中第12條金律是關於穩健投資的原則。
 
