@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-with-big-blue-eyes-learning-management-books-with-Van-Gogh-styl.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-learning-management-books-with-Van-Gogh-style.jpeg)
 
 四零： 
 1. 零藉口
