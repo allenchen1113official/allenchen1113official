@@ -11,8 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-with-big-blue-eyes-do-things-carefully-with-Van-Gogh-style
-.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-do-things-carefully-with-Van-Gogh-style.jpeg)
 
 四零七要九度管理方法論是一種管理工作的方法，強調在執行任務時的細節程度。以下是四零七要九度管理方法論中做事的細度的一些觀點：
 
