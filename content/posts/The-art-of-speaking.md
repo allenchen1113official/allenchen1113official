@@ -6,7 +6,7 @@ description = "說話的藝術"
 slug = "The-art-of-speaking"
 authors = "AllenChen"
 tags = ["說話的藝術"]
-categories = ["說話的藝術]
+categories = ["說話的藝術"]
 externalLink = ""
 series = []
 +++
