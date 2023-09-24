@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/XXX.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-talking-a-superior-boss-with-Van-Gogh-style.jpeg)
 
 向上管理是指有效地管理和與上級溝通的能力。以下是一些向上管理的技巧：
 
