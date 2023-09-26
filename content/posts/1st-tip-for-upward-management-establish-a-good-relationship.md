@@ -5,8 +5,8 @@ title = "向上管理技巧-建立良好的關係"
 description = "向上管理技巧-建立良好的關係"
 slug = ""
 authors = "AllenChen"
-tags = ["向上管理","立良好的關係"]
-categories = ["向上管理","立良好的關係"]
+tags = ["向上管理","建立良好的關係"]
+categories = ["向上管理","建立良好的關係"]
 externalLink = ""
 series = []
 +++
