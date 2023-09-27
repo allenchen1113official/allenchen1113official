@@ -22,7 +22,7 @@ series = []
 5. 傾聽和溝通：與下屬保持開放的溝通，傾聽他們的意見和想法。確保雙方對目標和期望有共同的理解。
 6. 跟進和評估：跟進下屬的進展，定期評估他們的表現和達成情況。提供必要的支援和幫助，以確保他們能夠實現目標。
 明確目標和期望可以為團隊建立明確的方向，提高工作效能和結果。記住要保持開放的溝通，積極提供指導和反饋，並鼓勵下屬參與和提供意見。這將有助於建立一個積極、高效的工作環境。
-
+excuse
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
     
