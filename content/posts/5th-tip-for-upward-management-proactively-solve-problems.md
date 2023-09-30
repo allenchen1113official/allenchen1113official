@@ -6,7 +6,7 @@ description = "向上管理技巧-主動解決問題"
 slug = "5th-tip-for-upward-management-proactively-solve-problems"
 authors = "AllenChen"
 tags = ["向上管理","主動解決問題"]
-categories = ["向上管理","能言主動解決問題善道"]
+categories = ["向上管理","主動解決問題"]
 externalLink = ""
 series = []
 +++
