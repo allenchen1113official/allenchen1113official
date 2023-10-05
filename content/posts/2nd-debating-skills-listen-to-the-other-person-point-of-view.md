@@ -25,7 +25,9 @@ series = []
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
-    
+
+
+使用 python 以Scrapy庫為範例，進行抓取 reddit stock板及ptt stock板。  
 
 {{< css.inline >}}
 <style>
