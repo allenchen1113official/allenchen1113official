@@ -2,7 +2,7 @@
 draft = false
 date = 2023-10-06T02:27:57+08:00
 title = "第3個辯論技巧-提問"
-description = 第3個辯論技巧-提問
+description = "第3個辯論技巧-提問"
 slug = "3rd-debating-skills-asking"
 authors = "AllenChen"
 tags = ["辯論技巧","說話的藝術","提問"]
