@@ -13,7 +13,7 @@ series = []
 
 ![image](/images/post/A-rabbit-with-big-blue-eyes-taking-part-in-debate-competition-and-organizing-arguments-at-school-with-Van-Gogh-style.jpeg)
 
-整理論據是辯論中非常重要的一個技巧，它可以幫助你清晰地呈現和支援你的論點。以下是一些整理論據的步驟和技巧：
+整理論據是辯論中非常重要的一個技巧，可以幫助你清晰地呈現和支援你的論點。以下是一些整理論據的步驟和技巧：
 
 1. 確定你的論點：首先，你需要明確確定你要支援的論點是什麼。這將成為你整理論據的基礎。
 2. 收集資料和證據：接下來，收集相關的資料和證據來支援你的論點。這可以包括統計資料、專家觀點、研究結果等。確保你的資料和證據是可靠和可信的。
