@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-10-13T20:52:45+08:00
-title = "談話技巧-聆聽"
-description = "談話技巧-聆聽"
+title = "第1個談話技巧-聆聽"
+description = "第1個談話技巧-聆聽"
 slug = "1st-conversation-skills-listening"
 authors = "AllenChen"
 tags = ["談話技巧","聆聽","溝通"]
