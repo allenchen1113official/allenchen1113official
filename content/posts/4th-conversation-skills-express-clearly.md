@@ -5,8 +5,8 @@ title = "第4個談話技巧-清晰表達"
 description = "第4個談話技巧-清晰表達"
 slug = "4th-conversation-skills-express-clearly"
 authors = "AllenChen"
-tags = []
-categories = []
+tags = ["談話技巧","清晰表達","溝通"]
+categories = ["談話技巧","清晰表達","溝通"]
 externalLink = ""
 series = []
 +++
