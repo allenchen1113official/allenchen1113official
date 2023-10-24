@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2023-10-24T00:52:50+08:00
+date = 2023-10-23T00:52:50+08:00
 title = "創業-產品思維第2個訣竅-創造簡單而直觀的使用者體驗"
 description = "創業-產品思維第2個訣竅-創造簡單而直觀的使用者體驗"
 slug = "2nd-entrepreneurship-product-thinking-tips-create-a-simple-and-intuitive-user-experience"
