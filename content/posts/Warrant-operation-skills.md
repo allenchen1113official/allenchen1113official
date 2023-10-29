@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-![image](/images/post/A-rabbit-with-big-blue-eyes-operate-warrant-and-has-much-money-with-Van-Gogh-style.jpeg)
+![image](/images/post/A-rabbit-with-big-blue-eyes-has-much-money-with-Van-Gogh-style.jpeg)
 
 權證是一種衍生性金融商品，具有特殊的交易特徵和操作技巧。以下是一些常見的權證操作技巧：
 
