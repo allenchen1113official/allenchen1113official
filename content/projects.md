@@ -2,4 +2,4 @@
 title = "Projects"
 +++
 
-Nothing to see here... Move along!
+Here are Allen Projects!
