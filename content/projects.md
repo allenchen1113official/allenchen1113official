@@ -1,5 +1,5 @@
 +++
-title = "Projects"
+title = "Allen Projects"
 +++
 
     Here are Allen Projects!
